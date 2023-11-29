@@ -4,5 +4,6 @@ O sistema proposto é uma solução abrangente para a gestão eficiente de uma r
 
 ![image](https://github.com/GuiAlencarr/Projeto-Processos-e-Req/assets/133004558/b5b4f966-e232-4010-9c73-08282435f660)
 
-![Uploading image.png…]()
 
+
+<img width="524" alt="Captura de tela 2023-11-29 151259" src="https://github.com/GuiAlencarr/Projeto-Processos-e-Req/assets/133004558/a80055c8-919f-4169-92cd-8b91710db521">
